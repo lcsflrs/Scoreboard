@@ -201,6 +201,7 @@ const App = () => {
           </Text>
         ) : (
           <TextInput
+            autoFocus
             onEndEditing={handleMaxScoreSubmit}
             placeholder={maxScore.toString()}
             placeholderTextColor="#00000098"
