@@ -20,9 +20,14 @@ import {
   TouchableOpacity,
   View,
 } from 'react-native';
+import SplashScreen from 'react-native-splash-screen';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
 const App = () => {
+  useEffect(() => {
+    SplashScreen.hide();
+  });
+
   const [initialMaxScore, setInitialMaxScore] = React.useState(12);
   const [maxScore, setMaxScore] = React.useState(initialMaxScore);
   const [countLeft, setCountLeft] = React.useState(0);
