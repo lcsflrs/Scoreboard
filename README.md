@@ -10,5 +10,5 @@ Antes da criação dos componentes e tela, desenvolvi diversos protótipos usand
 
 
 ## Aprendizados:
-•   Foi a primeira vez que, enquanto desenvolvedor, fui até os usuários e os perguntei o que o aplicativo deveria ter e qual seria, na opinião deles, a melhor forma de implementar.
+•   Foi a primeira vez que, enquanto desenvolvedor, fui até os usuários e os perguntei o que o aplicativo deveria ter e qual seria, na opinião deles, a melhor forma de implementar.<br />
 •   O desenvolvimento de protótipos a fim de validar a ideia foi bastante engradecedor.
